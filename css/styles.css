@@ -97,6 +97,9 @@ body {
   text-transform: uppercase;
 }
 
+.menu-item {
+}
+
 .menu-link {
   color: #2e2f42;
   font-size: 16px;
