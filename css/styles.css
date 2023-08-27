@@ -136,7 +136,7 @@ body {
 
 .contact-list {
   display: flex;
-  column-gap: 40px;
+  gap: 40px;
 }
 
 /*HERO SECTION*/
